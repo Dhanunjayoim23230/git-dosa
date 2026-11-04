@@ -8,3 +8,4 @@
 ## Karam Dosa
 * dosa batter added
 * light oil added
+* karam and ghee added
