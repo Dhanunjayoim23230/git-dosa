@@ -12,5 +12,4 @@
 
 ## egg dosa started
 * dosa batter added
-* 1/2 egg added
-
+* 1 egg added
